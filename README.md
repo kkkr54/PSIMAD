@@ -56,19 +56,24 @@
 > Ниже приведены скриншоты выполнения кода из консоли для каждого задания:
 
 #### Задание 1 (Динамика по годам и Топ-15 жанров)
-![Задание 1 - скриншот](placeholders/task1.png)
+<img width="472" height="318" alt="image" src="https://github.com/user-attachments/assets/bcd53b2d-2786-4c8b-ab4c-98f13bb565f2" />
+<img width="562" height="488" alt="image" src="https://github.com/user-attachments/assets/5b6c397b-242c-40d1-9340-b58b1dbec192" />
 
 #### Задание 2 (Популярность жанров на IMDb)
-![Задание 2 - скриншот](placeholders/task2.png)
+<img width="723" height="321" alt="image" src="https://github.com/user-attachments/assets/ff4c8ece-6bab-4e62-9807-9bf562024dec" />
+
 
 #### Задание 3 (Динамика выпуска и средний рейтинг)
-![Задание 3 - скриншот](placeholders/task3.png)
+<img width="621" height="325" alt="image" src="https://github.com/user-attachments/assets/77e9dffc-563e-40a3-b9b8-577520629344" />
+
 
 #### Задание 4 (Динамика прироста фильмов по годам)
-![Задание 4 - скриншот](placeholders/task4.png)
+<img width="997" height="336" alt="image" src="https://github.com/user-attachments/assets/c48d8254-be70-4a32-a792-f7d6653b3a83" />
+
 
 #### Задание 5 (Скрытые жемчужины)
-![Задание 5 - скриншот](placeholders/task5.png)
+<img width="1446" height="325" alt="image" src="https://github.com/user-attachments/assets/f797643b-74d2-4c10-8445-899edcf81198" />
+
 
 ---
 
